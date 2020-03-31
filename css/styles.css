@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 7px;
+  width: 5%;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-shadow: 2px 2px 3px black;
+}
+
+h3 {
+  color: white;
+  text-shadow: 3px 3px 3px black;
+}
